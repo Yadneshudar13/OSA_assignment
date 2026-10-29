@@ -69,7 +69,7 @@ To run these programs, you need:
 **Step 1:** Clone the repository.
 
 ```bash
-git clone https://github.com/SiddheshSathe21/OSA_assignments_codes.git
+git clone [https://github.com/Yadneshudar13/OSA_assignment]
 ```
 
 **Step 2:** Open the downloaded repository in VS Code or any code editor.
@@ -110,9 +110,9 @@ Follow the same steps to compile and execute the other programs.
 
 ## 👨‍💻 Author
 
-**Siddhesh Sathe**
+**Yadnesh Udar**
 
-GitHub: [@SiddheshSathe21](https://github.com/SiddheshSathe21)
+GitHub: [https://github.com/Yadneshudar13/OSA_assignment]
 
 ## ⭐ Acknowledgement
 
